@@ -2,7 +2,7 @@
 
 # ASSIGNMENT_HARDWARE_TASK_11634
 
-Hardware Task submission for **Embedded Electronics Engineer Internship** – Task Code: HW11634.
+Hardware Task submission for **Embedded Electronics Engineer Internship** – Task Code: 11634.
 
 ## 📂 Contents
 This repository contains:
